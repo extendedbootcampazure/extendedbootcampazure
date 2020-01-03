@@ -80,7 +80,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "DelimitedText1",
+									"referenceName": "Source_Dataset",
 									"type": "DatasetReference"
 								}
 							],
