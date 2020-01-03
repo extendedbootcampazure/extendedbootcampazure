@@ -10,7 +10,10 @@
 		"schema": [],
 		"typeProperties": {
 			"schema": "tmp",
-			"table": "a"
+			"table": {
+				"value": "@{item().name}",
+				"type": "Expression"
+			}
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/datasets"
