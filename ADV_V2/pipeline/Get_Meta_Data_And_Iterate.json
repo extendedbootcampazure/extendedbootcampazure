@@ -86,7 +86,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "AzureSQLDB",
+									"referenceName": "Destination_AzureSQLDB",
 									"type": "DatasetReference"
 								}
 							]
