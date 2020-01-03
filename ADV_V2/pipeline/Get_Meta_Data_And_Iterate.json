@@ -66,9 +66,7 @@
 									"type": "DelimitedTextSource",
 									"storeSettings": {
 										"type": "AzureBlobStorageReadSettings",
-										"recursive": true,
-										"wildcardFileName": "aa",
-										"enablePartitionDiscovery": false
+										"recursive": true
 									},
 									"formatSettings": {
 										"type": "DelimitedTextReadSettings"
@@ -82,7 +80,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "BobDataset",
+									"referenceName": "DelimitedText1",
 									"type": "DatasetReference"
 								}
 							],
