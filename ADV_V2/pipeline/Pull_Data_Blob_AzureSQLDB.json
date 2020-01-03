@@ -1,5 +1,5 @@
 {
-	"name": "CopyData",
+	"name": "Pull_Data_Blob_AzureSQLDB",
 	"properties": {
 		"activities": [
 			{
