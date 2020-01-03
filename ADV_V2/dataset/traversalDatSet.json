@@ -13,7 +13,6 @@
 				"container": "emph1995ashishgunjan"
 			},
 			"columnDelimiter": ",",
-			"compressionCodec": "snappy",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},
